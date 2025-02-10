@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pallavireddy01
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence and Data Science.
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on AI and Machine learning projects,open-source contributions and any innovative tech initiatives.
 - 📫 How to reach me pallavireddybonthala@gmail.com
